@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jack Haydock</title>
+    <link>http://www.jackhaydock.co.uk</link>
+    <atom:link href="http://www.jackhaydock.co.uk/feed.xml" rel="self" type="application/rss+xml" />
+    <description>A simple showcase site</description>
+    <language>en-us</language>
+    <pubDate>Mon, 02 Jan 2017 10:10:32 +0000</pubDate>
+    <lastBuildDate>Mon, 02 Jan 2017 10:10:32 +0000</lastBuildDate>
+
+    
+      <item>
+        <title>Happy New Year!</title>
+        <link>http://www.jackhaydock.co.uk/posts/2017/new-year</link>
+        <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+        <author>Jack Haydock</author>
+        <description>&lt;p&gt;…well at least have a better one than 2016.&lt;/p&gt;
+
+&lt;p&gt;This one was a bit rushed so there are a few problems such as inconsistent shading and lack of detailing, but otherwise I am still pleased with it.&lt;/p&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>Merry Christmas!</title>
+        <link>http://www.jackhaydock.co.uk/posts/2016/merry-xmas</link>
+        <pubDate>Sun, 25 Dec 2016 00:00:00 +0000</pubDate>
+        <author>Jack Haydock</author>
+        <description>&lt;p&gt;Someone didn’t think the stocking placement through, or maybe it’s on purpose.&lt;/p&gt;
+
+&lt;p&gt;I had originally intended to make the Rubber Monkey cat’s fur a tortoiseshell brown/black colour, however finding that too difficult, I gave up and made it plain white.&lt;/p&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>New Site!</title>
+        <link>http://www.jackhaydock.co.uk/posts/2016/new-site</link>
+        <pubDate>Sat, 24 Dec 2016 00:00:00 +0000</pubDate>
+        <author>Jack Haydock</author>
+        <description>&lt;p&gt;To celebrate the launch of my new site, I would like to share the first of hopefully many images.&lt;/p&gt;
+</description>
+      </item>
+    
+
+  </channel>
+</rss>
