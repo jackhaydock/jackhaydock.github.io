@@ -6,9 +6,33 @@
     <atom:link href="http://www.jackhaydock.co.uk/feed.xml" rel="self" type="application/rss+xml" />
     <description>A simple showcase site</description>
     <language>en-us</language>
-    <pubDate>Mon, 02 Jan 2017 10:10:32 +0000</pubDate>
-    <lastBuildDate>Mon, 02 Jan 2017 10:10:32 +0000</lastBuildDate>
+    <pubDate>Wed, 04 Jan 2017 22:09:08 +0000</pubDate>
+    <lastBuildDate>Wed, 04 Jan 2017 22:09:08 +0000</lastBuildDate>
 
+    
+      <item>
+        <title>Secret Codes?</title>
+        <link>http://www.jackhaydock.co.uk/posts/2017/info</link>
+        <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+        <author>Jack Haydock</author>
+        <description>&lt;p&gt;To anyone who has noticed alpha-numeric codes poorly hidden in the image, they are steam (sometimes Uplay or Origin) codes for games I am giving away. I have too many unredeemed games, usually through humble bundles,
+and have decided, instead of just leaving them unclaimed or tediously trying to figure out who would be best to give them to, to just give them away as rewards for people who pay attention to my work (yes I’m that desperate for attention).&lt;/p&gt;
+
+&lt;p&gt;So long as I have spare keys for games I don’t want or already have, I will hide a code in every image I publish and the first person the find and claim it gets the game. Most codes will be for 
+&lt;a href=&quot;http://store.steampowered.com/&quot;&gt;Steam&lt;/a&gt;, though if it doesn’t work try &lt;a href=&quot;https://uplay.ubi.com/&quot;&gt;Uplay&lt;/a&gt; or &lt;a href=&quot;https://www.origin.com&quot;&gt;Origin&lt;/a&gt;. If none of those work, the game may have already been claimed. If you find a code and
+discover it to be a game you don’t want or already have, please gift it to someone or just don’t claim it and let someone else find it, don’t be greedy! or I’ll set the cats on you, don’t be fooled by their cuteness, they are vicious monsters who will stop at nothing to tear your greedy flesh apart.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/post-images/2017/01/kittens.png&quot; alt=&quot;alt&quot; /&gt;&lt;/p&gt;
+&lt;h6 id=&quot;image-sourced-from-openclipartorg-since-im-too-lazy-to-draw-one-myself-just-yet&quot;&gt;&lt;a href=&quot;https://openclipart.org/detail/250877/cute-kittens-playing&quot;&gt;Image sourced from openclipart.org since I’m too lazy to draw one myself just yet&lt;/a&gt;&lt;/h6&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://support.steampowered.com/kb_article.php?ref=5414-TFBN-1352&quot;&gt;How to redeem steam codes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://support.steampowered.com/kb_article.php?p_faqid=549#gifts-whatare&quot;&gt;How to gift games on steam&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://support.ubi.com/en-GB/Faqs/000021992&quot;&gt;How to redeem Uplay codes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://help.ea.com/en-gb/help/origin/origin/origin-code-redemption-faq/&quot;&gt;How to redeem Origin codes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      </item>
     
       <item>
         <title>Happy New Year!</title>
