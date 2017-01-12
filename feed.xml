@@ -6,16 +6,45 @@
     <atom:link href="http://www.jackhaydock.co.uk/feed.xml" rel="self" type="application/rss+xml" />
     <description>A simple showcase site</description>
     <language>en-us</language>
-    <pubDate>Sat, 07 Jan 2017 14:19:08 +0000</pubDate>
-    <lastBuildDate>Sat, 07 Jan 2017 14:19:08 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Jan 2017 14:47:32 +0000</pubDate>
+    <lastBuildDate>Thu, 12 Jan 2017 14:47:32 +0000</lastBuildDate>
 
+    
+      <item>
+        <title>Cats!</title>
+        <link>http://www.jackhaydock.co.uk/posts/2017/cats</link>
+        <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
+        <author>Jack Haydock</author>
+        <description>&lt;p&gt;Cats! Not for any particular reason, just have some cats.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/public/post-images/2017/ballcute.png&quot;&gt;
+&lt;img src=&quot;/public/post-images/2017/ballcute.png&quot; alt=&quot;Cat!&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/public/post-images/2017/ballsilly.png&quot;&gt;
+&lt;img src=&quot;/public/post-images/2017/ballsilly.png&quot; alt=&quot;Cat!&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/public/post-images/2017/pillowsleepy.png&quot;&gt;
+&lt;img src=&quot;/public/post-images/2017/pillowsleepy.png&quot; alt=&quot;Cat!&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/public/post-images/2017/pillowsilly.png&quot;&gt;
+&lt;img src=&quot;/public/post-images/2017/pillowsilly.png&quot; alt=&quot;Cat!&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h6 id=&quot;click-image-to-see-larger-version&quot;&gt;Click image to see larger version&lt;/h6&gt;
+
+&lt;h6 id=&quot;ps-there-may-be-four-images-but-there-is-only-one-code&quot;&gt;P.S. There may be four images but there is only one code&lt;/h6&gt;
+</description>
+      </item>
     
       <item>
         <title>Secret Codes?</title>
         <link>http://www.jackhaydock.co.uk/posts/2017/info</link>
         <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
         <author>Jack Haydock</author>
-        <description>&lt;p&gt;To anyone who has noticed alpha-numeric codes poorly hidden in the image, they are steam (sometimes Uplay or Origin) codes for games I am giving away. I have too many unredeemed games, usually through humble bundles,
+        <description>&lt;p&gt;To anyone who has noticed alpha-numeric codes poorly hidden in the images, they are steam (sometimes Uplay or Origin) codes for games I am giving away. I have too many unredeemed games, usually through humble bundles,
 and have decided, instead of just leaving them unclaimed or tediously trying to figure out who would be best to give them to, to just give them away as rewards for people who pay attention to my work (yes I’m that desperate for attention).&lt;/p&gt;
 
 &lt;p&gt;So long as I have spare keys for games I don’t want or already have, I will hide a code in every image I publish and the first person the find and claim it gets the game. Most codes will be for 
@@ -27,6 +56,7 @@ discover it to be a game you don’t want or already have, please gift it to som
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;h6 id=&quot;click-image-to-see-larger-version&quot;&gt;Click image to see larger version&lt;/h6&gt;
+&lt;h6 id=&quot;ps-there-is-no-code-in-this-image-ironically-i-forgot-to-include-one-on-the-page-about-the-codes&quot;&gt;P.S. There is no code in this image, ironically I forgot to include one on the page about the codes.&lt;/h6&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://support.steampowered.com/kb_article.php?ref=5414-TFBN-1352&quot;&gt;How to redeem steam codes&lt;/a&gt;&lt;/li&gt;
