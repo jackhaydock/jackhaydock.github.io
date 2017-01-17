@@ -6,9 +6,25 @@
     <atom:link href="http://www.jackhaydock.co.uk/feed.xml" rel="self" type="application/rss+xml" />
     <description>A simple showcase site</description>
     <language>en-us</language>
-    <pubDate>Thu, 12 Jan 2017 14:47:32 +0000</pubDate>
-    <lastBuildDate>Thu, 12 Jan 2017 14:47:32 +0000</lastBuildDate>
+    <pubDate>Tue, 17 Jan 2017 10:31:24 +0000</pubDate>
+    <lastBuildDate>Tue, 17 Jan 2017 10:31:24 +0000</lastBuildDate>
 
+    
+      <item>
+        <title>Internal Combustion Penguin</title>
+        <link>http://www.jackhaydock.co.uk/posts/2017/ICP</link>
+        <pubDate>Tue, 17 Jan 2017 00:00:00 +0000</pubDate>
+        <author>Jack Haydock</author>
+        <description>&lt;p&gt;This one is based on a pun a friend of mine made, I liked it so much I made a quick image to match it. This was made very quickly, by my standards, so there’s is not much to it. I may revisit it to add backgrounds or other features later.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/public/post-images/2017/ICP-code.png&quot;&gt;
+&lt;img src=&quot;/public/post-images/2017/ICP-code.png&quot; alt=&quot;Internal Combustion Penguin!&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h6 id=&quot;click-image-to-see-larger-version&quot;&gt;Click image to see larger version&lt;/h6&gt;
+
+</description>
+      </item>
     
       <item>
         <title>Cats!</title>
