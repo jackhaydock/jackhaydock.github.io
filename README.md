@@ -11,6 +11,9 @@
 # Changelog
 
 ###17/01/2017
+* Fixed Twitter share to produce card instead of just text
+
+###17/01/2017
 * Testing twitter share fix
 
 ###12/01/2017
