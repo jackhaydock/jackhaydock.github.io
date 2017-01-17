@@ -10,6 +10,9 @@
 
 # Changelog
 
+###17/01/2017(4) ...it's been a productive day
+* Added descriptions for sake of twitter cards
+
 ###17/01/2017(3)
 * Updated Cosmetic Style
 * Added Slate and Graphite styles but still using azul
