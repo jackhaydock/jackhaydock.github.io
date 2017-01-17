@@ -5,9 +5,13 @@
 * Add dividers bewtween posts
 * Experiment with different fonts and colours
 * Create image for 404 screen
+* Fix share buttons to open new tab
 
 
 # Changelog
+
+###17/01/2017
+* Testing twitter share fix
 
 ###12/01/2017
 * Updated readme
