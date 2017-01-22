@@ -10,6 +10,10 @@
 
 # Changelog
 
+###22/01/2017
+* Testing Disqus comments
+* Updated twitter cards to not require specific description, intead using general page content like other services
+
 ###17/01/2017(4) ...it's been a productive day
 * Added descriptions for sake of twitter cards
 
