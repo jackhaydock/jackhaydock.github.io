@@ -6,9 +6,35 @@
     <atom:link href="http://www.jackhaydock.co.uk/feed.xml" rel="self" type="application/rss+xml" />
     <description>A simple showcase site</description>
     <language>en-us</language>
-    <pubDate>Tue, 17 Jan 2017 14:02:09 +0000</pubDate>
-    <lastBuildDate>Tue, 17 Jan 2017 14:02:09 +0000</lastBuildDate>
+    <pubDate>Sun, 22 Jan 2017 20:31:03 +0000</pubDate>
+    <lastBuildDate>Sun, 22 Jan 2017 20:31:03 +0000</lastBuildDate>
 
+    
+      <item>
+        <title>Killer Rabbit</title>
+        <link>http://www.jackhaydock.co.uk/posts/2017/killerabbit</link>
+        <pubDate>Sun, 22 Jan 2017 00:00:00 +0000</pubDate>
+        <author>Jack Haydock</author>
+        <description>&lt;p&gt;There’s a somewhat morbid charm to cute things being violent. No story or purpose behind this one, just thought it would be fun.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/public/post-images/2017/Rabbit01-code.png&quot;&gt;
+&lt;img src=&quot;/public/post-images/2017/Rabbit01-code.png&quot; alt=&quot;Bloody Rabbit!&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/public/post-images/2017/Rabbit02.png&quot;&gt;
+&lt;img src=&quot;/public/post-images/2017/Rabbit02.png&quot; alt=&quot;Bloody Rabbit!&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/public/post-images/2017/Rabbit03.png&quot;&gt;
+&lt;img src=&quot;/public/post-images/2017/Rabbit03.png&quot; alt=&quot;Cute Rabbit&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h6 id=&quot;click-image-to-see-larger-version&quot;&gt;Click image to see larger version&lt;/h6&gt;
+
+&lt;h6 id=&quot;again-there-is-only-one-code-despite-multiple-images&quot;&gt;Again, there is only one code, despite multiple images.&lt;/h6&gt;
+
+</description>
+      </item>
     
       <item>
         <title>Internal Combustion Penguin</title>
