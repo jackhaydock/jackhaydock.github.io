@@ -1,14 +1,15 @@
 # TODO list
 
-* Look into static comment possibilities
 * Add contact form if possible with static(possibly linked to e-mail)
 * Add dividers bewtween posts
-* Experiment with different fonts and colours
 * Create image for 404 screen
 * Fix share buttons to open new tab
 
 
 # Changelog
+
+###22/01/2017(2)
+* Updated about page to mention comments
 
 ###22/01/2017
 * Testing Disqus comments
