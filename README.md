@@ -1,12 +1,18 @@
 # TODO list
 
-* Add contact form if possible with static(possibly linked to e-mail)
+* Add contact form if possible with static (possibly linked to e-mail)
 * Add dividers bewtween posts
 * Create image for 404 screen
-* Fix share buttons to open new tab
 
 
 # Changelog
+
+###27/01/2017
+* Modified codes info page to state 'One code per post not per image'
+* Moved hyperlink colour decleration for postlinks into 'main.scss' under themes
+* Corrected space above images on postlinks
+* Share buttons now open new tab
+* CV opens new tab
 
 ###22/01/2017(2)
 * Updated about page to mention comments
