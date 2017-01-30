@@ -3,6 +3,7 @@
 * Add contact form if possible with static (possibly linked to e-mail)
 * Add dividers bewtween posts
 * Create image for 404 screen
+* Finish Puzzle Gauntlet
 
 
 # Changelog
