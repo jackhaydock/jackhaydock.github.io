@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TODO list
 * Add contact form
 * Fix twitter card for pages that don't have {{page.image}}
@@ -84,3 +85,7 @@
 
 ### 01/01/2017
 * Initial release
+=======
+# jackhaydock.github.io
+test gh pages for www.jackhaydock.co.uk
+>>>>>>> 268d7a128a50f6ed90a92294a81b5498375097c3
